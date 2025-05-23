@@ -9,8 +9,8 @@
         color_overrides = {
           mocha = {
             base = "#000000";
-            mantle = "#000000";
-            crust = "#000000";
+            mantle = "#090909";
+            crust = "#141414";
           };
         };
         # Needed to keep terminal transparency, if any
