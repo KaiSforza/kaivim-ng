@@ -9,6 +9,7 @@
 
     config = ''
       require("precognition").setup({
+        startVisible = false,
         showBlankVirtLine = false,
       })
     '';
